@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="container flex items-center justify-between h-16">
         <Link to="/" className="flex items-center gap-2">
           <Heart className="w-6 h-6 text-love-default" fill="#D946EF" />
-          <span className="font-bold text-xl gradient-text">СердцеРоссии</span>
+          <span className="font-bold text-xl gradient-text">Secret Charm</span>
         </Link>
         
         <div className="hidden md:flex items-center space-x-6">

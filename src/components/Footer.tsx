@@ -10,13 +10,13 @@ const Footer = () => {
           <div className="md:w-1/3">
             <div className="flex items-center gap-2 mb-4">
               <Heart className="w-6 h-6 text-love-default" fill="#D946EF" />
-              <span className="font-bold text-xl gradient-text">СердцеРоссии</span>
+              <span className="font-bold text-xl gradient-text">Secret Charm</span>
             </div>
             <p className="text-muted-foreground mb-4">
               Соединяем сердца по всей России, создаем истории любви и счастья вместе с вами.
             </p>
             <p className="text-sm text-muted-foreground">
-              © 2024 СердцеРоссии. Все права защищены.
+              © 2024 Secret Charm. Все права защищены.
             </p>
           </div>
           
