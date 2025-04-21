@@ -4,7 +4,7 @@
 
 @layer base {
   :root {
-    --background: 300 100% 99%;
+    --background: 45 100% 96%;
     --foreground: 240 10% 4%;
 
     --card: 0 0% 100%;
@@ -22,7 +22,7 @@
     --muted: 240 5% 96%;
     --muted-foreground: 240 4% 46%;
 
-    --accent: 300 95% 90%;
+    --accent: 45 95% 90%;
     --accent-foreground: 240 10% 4%;
 
     --destructive: 0 84% 60%;
@@ -34,24 +34,24 @@
 
     --radius: 0.5rem;
 
-    --sidebar-background: 0 0% 98%;
+    --sidebar-background: 45 100% 98%;
     --sidebar-foreground: 240 5% 26%;
     --sidebar-primary: 310 90% 60%;
     --sidebar-primary-foreground: 0 0% 98%;
-    --sidebar-accent: 240 5% 96%;
+    --sidebar-accent: 45 95% 90%;
     --sidebar-accent-foreground: 240 6% 10%;
-    --sidebar-border: 220 13% 91%;
+    --sidebar-border: 45 60% 80%;
     --sidebar-ring: 310 90% 60%;
   }
 
   .dark {
-    --background: 240 10% 4%;
+    --background: 45 40% 15%;
     --foreground: 0 0% 98%;
 
-    --card: 240 10% 4%;
+    --card: 45 30% 10%;
     --card-foreground: 0 0% 98%;
 
-    --popover: 240 10% 4%;
+    --popover: 45 30% 10%;
     --popover-foreground: 0 0% 98%;
 
     --primary: 310 90% 60%;
@@ -60,26 +60,26 @@
     --secondary: 260 85% 75%;
     --secondary-foreground: 240 10% 4%;
 
-    --muted: 240 5% 20%;
+    --muted: 45 30% 20%;
     --muted-foreground: 240 5% 65%;
 
-    --accent: 300 50% 25%;
+    --accent: 45 50% 25%;
     --accent-foreground: 0 0% 98%;
 
     --destructive: 0 63% 31%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 240 5% 26%;
-    --input: 240 5% 26%;
+    --border: 45 30% 26%;
+    --input: 45 30% 26%;
     --ring: 310 90% 60%;
 
-    --sidebar-background: 240 6% 10%;
+    --sidebar-background: 45 30% 10%;
     --sidebar-foreground: 240 5% 96%;
     --sidebar-primary: 310 90% 60%;
     --sidebar-primary-foreground: 0 0% 98%;
-    --sidebar-accent: 240 4% 16%;
+    --sidebar-accent: 45 30% 16%;
     --sidebar-accent-foreground: 240 5% 96%;
-    --sidebar-border: 240 4% 16%;
+    --sidebar-border: 45 30% 16%;
     --sidebar-ring: 310 90% 60%;
   }
 }

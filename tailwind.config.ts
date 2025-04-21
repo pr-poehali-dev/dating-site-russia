@@ -64,9 +64,14 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				love: {
-					'light': '#FFDEE2',
+					'light': '#FEF7CD', // Изменено на светло-желтый
 					'default': '#D946EF',
 					'dark': '#9b87f5'
+				},
+				yellow: {
+					'light': '#FEF7CD',
+					'default': '#FFD700',
+					'dark': '#FFA500'
 				}
 			},
 			borderRadius: {
